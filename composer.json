@@ -9,5 +9,11 @@
         "psr-4": {
             "Hellkaiser\\Contact\\": "src/"
         }
-    }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hellkaiser\\Contact\\ContactServiceProvider"
+            ]
+    },
 }
