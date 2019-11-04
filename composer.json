@@ -15,5 +15,5 @@
             "providers": [
                 "Hellkaiser\\Contact\\ContactServiceProvider"
             ]
-    },
+    }
 }
